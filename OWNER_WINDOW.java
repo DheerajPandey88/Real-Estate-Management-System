@@ -7,10 +7,7 @@ import javax.swing.border.Border;
 import javax.swing.table.DefaultTableModel;
 
 
-/**
- *
- * @author rkk04
- */
+
 public class OWNER_WINDOW extends javax.swing.JFrame {
 
     /**
