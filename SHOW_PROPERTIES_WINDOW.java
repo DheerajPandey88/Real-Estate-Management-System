@@ -3,15 +3,6 @@ import java.awt.Color;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/**
- *
- * @author rkk04
- */
 public class SHOW_PROPERTIES_WINDOW extends javax.swing.JFrame {
 
     /**
