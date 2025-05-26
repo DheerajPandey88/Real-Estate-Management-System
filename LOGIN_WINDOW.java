@@ -10,15 +10,7 @@ import javax.swing.BorderFactory;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.border.Border;
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 
-/**
- *
- * @author rkk04
- */
 public class LOGIN_WINDOW extends javax.swing.JFrame {
 
     /**
@@ -26,19 +18,7 @@ public class LOGIN_WINDOW extends javax.swing.JFrame {
      */
     public LOGIN_WINDOW() {
         initComponents();
-           /*
-        -download the java mysql database connector from this link:
-        -https/dev.mysql
-        -open a mysql java file to connect this folder
-        -xampp server to apches server and mysql server start
-        -create the mysql database using php admin.
-        -create a class for connection
-        */
-        //center the from
       
-       // jLabel_Username_Icon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/image.png")));
-        //jLabel_Password_Icon.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/password.png")));
-         
         //add a bottom border to the jlabel title
         Border Image_border = BorderFactory.createMatteBorder(0,0, 3, 0, Color.red);
          jLabel_Image.setBorder(Image_border);
