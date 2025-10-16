@@ -1,33 +1,40 @@
 # Real-Estate-Management-System
-Real Estate Management System
-•	Login page
-•	Home page
 
-•	Property page
+# 🏠 Real Estate Management System
 
-•	Show Properties page
+## 📖 Project Description
+A Real Estate Management System (REMS) is a software application designed to simplify and automate the management of real estate properties, clients, and owners. It allows administrators to efficiently oversee the system, enables clients to browse and search for properties, and provides property owners with tools to list and manage their properties.The **Real Estate Management System** is a Java-based application built using **Apache NetBeans, MySQL, JDBC, and MVC architecture**.This system allows admins, clients, and property owners to manage real estate operations efficiently.  
 
+- **Admin:** Manage all users and properties.  
+- **Client:** Browse, search, and view property details.  
+- **Owner:** Add and manage property listings.  
 
-•	Property Type page
- 
-•	Property Image page
- 
+---
 
-•	Select Type Property Image page
+## ⚡ Key Features
+- User role management (Admin, Client, Owner)  
+- Add, update, delete, and view properties  
+- Search and filter properties for clients  
+- Implements **CRUD operations** for users and properties  
+- Uses **MVC architecture** for clear separation of concerns  
 
- 
-•	Owners page
+---
 
+## 🛠️ Technology Stack
+- **Language:** Java  
+- **Database:** MySQL  
+- **Database Connectivity:** JDBC  
+- **Architecture:** MVC (Model-View-Controller)  
+- **IDE:** Apache NetBeans  
 
-•	Owner Properties page
- 
+---
 
+## 💻 Screenshots
+*(Add your project screenshots here to make it visually appealing)*
 
-•	Client page
+---
 
-
-•	Sale page
-
-•	Add New Client Sale page
-•	Add New Property Sale page
-
+## 🚀 How to Run
+1. Clone the repository:  
+```bash
+git clone https://github.com/yourusername/real-estate-management.git
