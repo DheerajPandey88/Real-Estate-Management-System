@@ -33,15 +33,15 @@ A Real Estate Management System (REMS) is a software application designed to sim
 ## 💻 Screenshots
 ##Real Estate Management System
 
-![Dashboard Panel](https://raw.githubusercontent.com/DheerajPandey88/Real-Estate-Management-System/blob/main/Screenshot2025-10-13180159.png)
+![Dashboard Panel](https://github.com/DheerajPandey88/Real-Estate-Management-System/blob/b33c5b8011acee82fbc33237b43d47c580df7de4/Screenshot2025-10-13180159.png)
 
 
-![Admin Panel](https://raw.githubusercontent.com/DheerajPandey88/Real-Estate-Management-System/blob/main/Screenshot2025-10-13180302.png)
+![Admin Panel](https://github.com/DheerajPandey88/Real-Estate-Management-System/blob/b33c5b8011acee82fbc33237b43d47c580df7de4/Screenshot2025-10-13180302.png)
 
 
-![Client Panel](https://raw.githubusercontent.com//DheerajPandey88/Real-Estate-Management-System/blob/main/Screenshot2025-10-13180535.png)
+![Client Panel](https://github.com/DheerajPandey88/Real-Estate-Management-System/blob/b33c5b8011acee82fbc33237b43d47c580df7de4/Screenshot2025-10-13180535.png)
 
-![Sale Panel](https://raw.githubusercontent.com/DheerajPandey88/Real-Estate-Management-System/blob/main/Screenshot2025-10-201381013.png)
+![Sale Panel](https://github.com/DheerajPandey88/Real-Estate-Management-System/blob/b33c5b8011acee82fbc33237b43d47c580df7de4/Screenshot2025-10-%201381013.png)
 
 ---
 
