@@ -14,7 +14,7 @@ A Real Estate Management System (REMS) is a software application designed to sim
 
 ## ⚡ Key Features
 - User role management (Admin, Client, Owner)  
-- Add, update, delete, and view properties  
+- Add, update, delete, and view properties   
 - Search and filter properties for clients  
 - Implements **CRUD operations** for users and properties  
 - Uses **MVC architecture** for clear separation of concerns  
