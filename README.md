@@ -26,7 +26,7 @@ A Real Estate Management System (REMS) is a software application designed to sim
 - **Database:** MySQL  
 - **Database Connectivity:** JDBC  
 - **Architecture:** MVC (Model-View-Controller)  
-- **IDE:** Apache NetBeans  
+- **IDE:** Apache NetBeans 
 
 ---
 
